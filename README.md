@@ -33,4 +33,3 @@ Over the week, along with familiarizing myself with the Arduino as well as the c
 
 
  
-![image](https://user-images.githubusercontent.com/93540678/140513282-4c2b89d9-44b4-4212-a134-6f3449a080a8.png)
